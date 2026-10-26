@@ -9,7 +9,7 @@ const correctCount = () => state.answers.reduce((count, answer, i) => count + (a
 
 async function init() {
   try {
-    const response = await fetch('questions.json');
+    const response = await fetch('questions.json', { cache: 'no-store' });
     if (!response.ok) throw new Error('questions.json unavailable');
     seriesData = await response.json();
     renderHome();
@@ -120,3 +120,4 @@ function renderReview() {
 }
 
 init();
+
