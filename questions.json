@@ -1,0 +1,4462 @@
+[
+  {
+    "id": 1,
+    "title": "Série 1 — 40 questions",
+    "questions": [
+      {
+        "number": 1,
+        "question": "À quoi correspond la date du 14 juillet ?",
+        "options": [
+          "À la fin de la Première Guerre mondiale",
+          "À la fête nationale française",
+          "À la création de la Ve République",
+          "À l'abolition de l'esclavage"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Quelle est la devise de la République française ?",
+        "options": [
+          "Liberté, Justice, Solidarité",
+          "Égalité, Justice, Fraternité",
+          "Liberté, Égalité, Fraternité",
+          "Liberté, Travail, Patrie"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "Quel est l'hymne national français ?",
+        "options": [
+          "La Marseillaise",
+          "Le Chant des Partisans",
+          "Le Boléro",
+          "L'Internationale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Quelles sont les couleurs du drapeau français ?",
+        "options": [
+          "Vert, blanc, rouge",
+          "Bleu, blanc, rouge",
+          "Bleu, jaune, rouge",
+          "Blanc, rouge, noir"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Que signifie le principe d'égalité ?",
+        "options": [
+          "Tout le monde doit avoir le même métier",
+          "Tous les citoyens ont les mêmes droits devant la loi",
+          "Tout le monde doit avoir le même salaire",
+          "Tout le monde doit avoir les mêmes opinions"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Que permet la liberté d'expression ?",
+        "options": [
+          "D'exprimer ses idées dans le respect de la loi",
+          "D'insulter librement les autres",
+          "De ne pas respecter les lois",
+          "De diffuser n'importe quelle information sans limite"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Une personne peut-elle changer librement de religion ?",
+        "options": [
+          "Non, jamais",
+          "Seulement avec l'autorisation de la mairie",
+          "Oui",
+          "Seulement à partir de 21 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 8,
+        "question": "Qu'est-ce que la laïcité ?",
+        "options": [
+          "L'obligation d'être athée",
+          "La séparation des religions et de l'État et la liberté de conscience",
+          "L'interdiction de toute religion",
+          "L'obligation de pratiquer une religion"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "De quand date la Constitution de la Ve République ?",
+        "options": [
+          "1946",
+          "1958",
+          "1968",
+          "1981"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Quel est le régime politique de la France aujourd'hui ?",
+        "options": [
+          "Une monarchie",
+          "Une dictature",
+          "Une République",
+          "Un empire"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "question": "Qui nomme le Premier ministre ?",
+        "options": [
+          "Le président de la République",
+          "Le Sénat",
+          "Le Conseil constitutionnel",
+          "Le maire de Paris"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Qui détient le pouvoir législatif ?",
+        "options": [
+          "Le gouvernement uniquement",
+          "Le Parlement",
+          "Les préfets",
+          "Les tribunaux"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "De quoi est composé le Parlement français ?",
+        "options": [
+          "Du gouvernement et des tribunaux",
+          "De l'Assemblée nationale et du Sénat",
+          "Du président et du Sénat",
+          "Des maires et des députés"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Qui élit les députés ?",
+        "options": [
+          "Les sénateurs",
+          "Le président de la République",
+          "Les citoyens",
+          "Les préfets"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "question": "Pour combien de temps sont élus les députés ?",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "7 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "question": "Pour combien de temps est élu le président de la République ?",
+        "options": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "À partir de quel âge peut-on voter en France ?",
+        "options": [
+          "16 ans",
+          "17 ans",
+          "18 ans",
+          "21 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "question": "Quel est le rôle de l'autorité judiciaire ?",
+        "options": [
+          "Voter les lois",
+          "Juger les infractions et faire appliquer le droit",
+          "Diriger les communes",
+          "Nommer les ministres"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Qui réside au palais de l'Élysée ?",
+        "options": [
+          "Le Premier ministre",
+          "Le président de la République",
+          "Le président du Sénat",
+          "Le préfet de Paris"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Comment s'appelle la Constitution actuelle de la France ?",
+        "options": [
+          "La Constitution de la IIIe République",
+          "La Constitution de la IVe République",
+          "La Constitution de la Ve République",
+          "La Constitution européenne"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "De quelle année date la Déclaration des droits de l'homme et du citoyen ?",
+        "options": [
+          "1789",
+          "1799",
+          "1848",
+          "1905"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "La peine de mort en France est :",
+        "options": [
+          "Autorisée pour les crimes les plus graves",
+          "Autorisée uniquement en temps de guerre",
+          "Abolie",
+          "Décidée par le président"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 24,
+        "question": "Est-il légal d'être marié à plusieurs personnes en même temps en France ?",
+        "options": [
+          "Oui",
+          "Oui, avec l'accord du maire",
+          "Non",
+          "Seulement pour les étrangers"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+        "options": [
+          "Pour protéger les droits des autres et l'ordre public, dans le cadre de la loi",
+          "Pour empêcher les citoyens de voter",
+          "Pour supprimer toutes les religions",
+          "Pour favoriser certaines personnes"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Que risque une personne qui ne respecte pas la loi ?",
+        "options": [
+          "Une récompense",
+          "Une sanction prévue par la loi",
+          "Rien",
+          "Une interdiction automatique de voter à vie"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 27,
+        "question": "Qu'est-ce qu'une infraction ?",
+        "options": [
+          "Une récompense donnée par l'État",
+          "Un comportement interdit et sanctionné par la loi",
+          "Une démarche administrative",
+          "Une élection"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Que doit faire une personne en cas d'accident ?",
+        "options": [
+          "Partir immédiatement",
+          "Porter assistance dans la mesure du possible et appeler les secours si nécessaire",
+          "Attendre plusieurs jours",
+          "Ne rien faire si elle n'est pas responsable"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "En quelle année a débuté la Révolution française ?",
+        "options": [
+          "1776",
+          "1789",
+          "1799",
+          "1815"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Qui était Napoléon Ier ?",
+        "options": [
+          "Un roi de France",
+          "Un empereur français",
+          "Un président de la Ve République",
+          "Un écrivain"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "Quand a eu lieu la Première Guerre mondiale ?",
+        "options": [
+          "1870-1871",
+          "1914-1918",
+          "1939-1945",
+          "1954-1962"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 32,
+        "question": "Que signifie le terme « Shoah » ?",
+        "options": [
+          "La Révolution française",
+          "Le génocide des Juifs d'Europe pendant la Seconde Guerre mondiale",
+          "La guerre d'Algérie",
+          "L'abolition de l'esclavage"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 33,
+        "question": "Qui a rendu l'école publique gratuite, laïque et obligatoire ?",
+        "options": [
+          "Jules Ferry",
+          "Napoléon Ier",
+          "Charles de Gaulle",
+          "Jean Jaurès"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Pourquoi l'année 1958 est-elle importante pour la France ?",
+        "options": [
+          "Elle marque la création de la Ve République",
+          "Elle marque la fin de la Première Guerre mondiale",
+          "Elle marque l'abolition de la peine de mort",
+          "Elle marque la création de l'Union européenne"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+          "Lyon",
+          "Marseille",
+          "Paris",
+          "Bordeaux"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 36,
+        "question": "Quel océan borde la côte ouest de la France métropolitaine ?",
+        "options": [
+          "L'océan Atlantique",
+          "L'océan Indien",
+          "L'océan Pacifique",
+          "L'océan Arctique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Où se situe la Corse ?",
+        "options": [
+          "Dans l'océan Atlantique",
+          "En Méditerranée",
+          "Dans la Manche",
+          "Dans la mer du Nord"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Quel numéro permet d'appeler les pompiers ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "112 uniquement"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 39,
+        "question": "Qu'est-ce que le SMIC ?",
+        "options": [
+          "Un impôt sur le revenu",
+          "Le salaire minimum légal",
+          "Une aide au logement",
+          "Une assurance maladie"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "À quoi sert la carte Vitale ?",
+        "options": [
+          "À voter",
+          "À conduire une voiture",
+          "À faciliter le remboursement des soins de santé",
+          "À voyager dans l'Union européenne"
+        ],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Série 2",
+    "questions": [
+      {
+        "number": 1,
+        "question": "« Liberté, Égalité, Fraternité » est :",
+        "options": [
+          "Le nom d'un parti politique",
+          "La devise de la République française",
+          "Le nom de l'hymne national",
+          "Le titre de la Constitution"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Quel symbole représente la République française ?",
+        "options": [
+          "Marianne",
+          "La Tour Eiffel",
+          "Le coq uniquement",
+          "Le château de Versailles"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "question": "Que représente Marianne ?",
+        "options": [
+          "La République française",
+          "La monarchie française",
+          "L'Union européenne",
+          "L'armée française"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Où peut-on notamment voir la devise « Liberté, Égalité, Fraternité » ?",
+        "options": [
+          "Sur les mairies",
+          "Sur les permis de conduire uniquement",
+          "Sur les passeports étrangers",
+          "Sur les billets de banque uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "La France est une République :",
+        "options": [
+          "Indivisible, laïque, démocratique et sociale",
+          "Fédérale, religieuse et monarchique",
+          "Militaire et fédérale",
+          "Monarchique et démocratique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "La liberté de conscience signifie notamment :",
+        "options": [
+          "Que chacun peut avoir ou ne pas avoir de religion",
+          "Que seule une religion est autorisée",
+          "Que les religions sont obligatoires",
+          "Que les religions sont interdites"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "À l'école publique, la laïcité signifie notamment :",
+        "options": [
+          "Que toutes les religions sont enseignées comme obligatoires",
+          "Que l'école respecte la liberté de conscience des élèves",
+          "Que les élèves doivent être athées",
+          "Que les élèves peuvent refuser toutes les règles scolaires pour des raisons religieuses"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "Peut-on refuser d'aller à l'école simplement pour une raison religieuse ?",
+        "options": [
+          "Oui, toujours",
+          "Oui, si les parents sont d'accord",
+          "Non, l'instruction est obligatoire dans les conditions prévues par la loi",
+          "Oui, jusqu'à 18 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
+        "options": [
+          "Oui, tous les métiers physiques",
+          "Oui, selon la tradition",
+          "Non, les femmes et les hommes ont les mêmes droits professionnels",
+          "Oui, si l'employeur le souhaite"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "Une personne peut-elle être insultée publiquement en raison de son handicap ?",
+        "options": [
+          "Oui, si c'est une plaisanterie",
+          "Oui, si personne ne porte plainte",
+          "Non, certaines insultes ou discriminations sont interdites par la loi",
+          "Oui, dans les lieux publics"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "Qui exerce le pouvoir exécutif au niveau national ?",
+        "options": [
+          "Le président de la République et le Gouvernement",
+          "Les députés uniquement",
+          "Les juges uniquement",
+          "Les maires uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Qui vote les lois ?",
+        "options": [
+          "Le Parlement",
+          "Les préfets",
+          "Les policiers",
+          "Les maires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Le Parlement est composé :",
+        "options": [
+          "Du président et du Premier ministre",
+          "De l'Assemblée nationale et du Sénat",
+          "Des maires et des préfets",
+          "Des tribunaux et du Gouvernement"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Quel est le rôle principal des députés ?",
+        "options": [
+          "Juger les criminels",
+          "Voter les lois et contrôler l'action du Gouvernement",
+          "Diriger les communes",
+          "Commander la police"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Qui représente l'État dans un département ?",
+        "options": [
+          "Le maire",
+          "Le député",
+          "Le préfet",
+          "Le sénateur"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 16,
+        "question": "Qui dirige une commune ?",
+        "options": [
+          "Le préfet",
+          "Le maire",
+          "Le député",
+          "Le président du Sénat"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "Qui est élu lors des élections municipales ?",
+        "options": [
+          "Les conseillers municipaux",
+          "Les préfets",
+          "Les sénateurs directement par tous les citoyens",
+          "Le président de la République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "Qui est élu lors de l'élection présidentielle ?",
+        "options": [
+          "Le Premier ministre",
+          "Le président de la République",
+          "Le président du Sénat",
+          "Le préfet"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Les sénateurs sont élus :",
+        "options": [
+          "Directement par tous les citoyens",
+          "Par un collège de grands électeurs",
+          "Par le président de la République",
+          "Par les députés uniquement"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Combien de députés composent l'Assemblée nationale ?",
+        "options": [
+          "348",
+          "404",
+          "577",
+          "600"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "question": "La séparation des pouvoirs concerne :",
+        "options": [
+          "Les pouvoirs exécutif, législatif et judiciaire",
+          "Les pouvoirs municipal, régional et européen",
+          "Les pouvoirs administratif, militaire et religieux",
+          "Les pouvoirs économique, social et culturel"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "Un juge appartient à :",
+        "options": [
+          "L'autorité judiciaire",
+          "L'autorité législative",
+          "L'autorité municipale",
+          "L'autorité militaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Si une personne commet un vol, qui peut la sanctionner ?",
+        "options": [
+          "Le maire",
+          "Le juge, dans le cadre de la justice",
+          "Le voisin",
+          "Le préfet seul"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "A-t-on le droit de ne pas respecter une loi parce qu'on n'est pas d'accord avec elle ?",
+        "options": [
+          "Oui",
+          "Oui, si plusieurs personnes sont d'accord",
+          "Non",
+          "Seulement le dimanche"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 25,
+        "question": "Quel texte adopté en 1789 affirme des droits fondamentaux ?",
+        "options": [
+          "La Déclaration des droits de l'homme et du citoyen",
+          "Le Code de la route",
+          "Le traité de Rome",
+          "Le Code civil uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Quel droit est un droit fondamental ?",
+        "options": [
+          "Le droit à la liberté",
+          "Le droit de ne jamais payer d'impôts",
+          "Le droit de ne jamais respecter les règles",
+          "Le droit d'insulter quelqu'un"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Quel droit permet de se défendre devant la justice ?",
+        "options": [
+          "Les droits de la défense",
+          "Le droit de vote uniquement",
+          "Le droit de propriété uniquement",
+          "Le droit au travail uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 28,
+        "question": "Quelle est la situation de la peine de mort en France ?",
+        "options": [
+          "Elle est obligatoire pour certains crimes",
+          "Elle est abolie",
+          "Elle est appliquée uniquement aux étrangers",
+          "Elle est décidée par les maires"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "En France, peut-on divorcer ?",
+        "options": [
+          "Non",
+          "Oui, selon les procédures prévues par la loi",
+          "Seulement après 20 ans de mariage",
+          "Seulement avec l'autorisation du président"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Que doit faire une personne victime de violences ?",
+        "options": [
+          "Ne jamais en parler",
+          "Elle peut demander de l'aide et signaler les faits aux autorités",
+          "Se faire justice elle-même",
+          "Quitter immédiatement le territoire français"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 31,
+        "question": "En quelle année la Seconde Guerre mondiale s'est-elle terminée ?",
+        "options": [
+          "1939",
+          "1942",
+          "1945",
+          "1958"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 32,
+        "question": "Le 11 novembre commémore :",
+        "options": [
+          "La fin de la Première Guerre mondiale",
+          "La fête nationale",
+          "La fin de la Seconde Guerre mondiale",
+          "La création de la Ve République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Qui a fondé la Ve République ?",
+        "options": [
+          "Charles de Gaulle",
+          "Napoléon Ier",
+          "Jules Ferry",
+          "François Mitterrand"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Qui était Molière ?",
+        "options": [
+          "Un peintre",
+          "Un écrivain et dramaturge français",
+          "Un président",
+          "Un explorateur"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Qui était Simone de Beauvoir ?",
+        "options": [
+          "Une écrivaine et philosophe française",
+          "Une reine de France",
+          "Une peintre impressionniste",
+          "Une scientifique américaine"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Quel est le plus grand fleuve français ?",
+        "options": [
+          "La Seine",
+          "La Loire",
+          "La Garonne",
+          "Le Rhône"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "Quelle chaîne de montagnes se trouve notamment entre la France et l'Italie ?",
+        "options": [
+          "Les Alpes",
+          "Les Pyrénées",
+          "Le Jura uniquement",
+          "Les Vosges"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Quel numéro permet d'appeler le SAMU ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "114"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Quelle est la durée légale du travail à temps complet en France ?",
+        "options": [
+          "20 heures par semaine",
+          "30 heures par semaine",
+          "35 heures par semaine",
+          "45 heures par semaine"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "Jusqu'à quel âge l'instruction est-elle obligatoire en France ?",
+        "options": [
+          "14 ans",
+          "16 ans",
+          "18 ans",
+          "21 ans"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Série 3 — 40 questions",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Quel principe garantit que les femmes et les hommes ont les mêmes droits ?",
+        "options": [
+          "La laïcité",
+          "L'égalité",
+          "La fraternité",
+          "La nationalité"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "La liberté de religion signifie :",
+        "options": [
+          "Que chacun doit pratiquer une religion",
+          "Que seule la religion majoritaire est autorisée",
+          "Que chacun est libre de croire ou de ne pas croire",
+          "Que les religions sont interdites dans la société"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "La laïcité concerne notamment :",
+        "options": [
+          "Les relations entre l'État et les religions",
+          "Le fonctionnement des entreprises privées uniquement",
+          "Les élections municipales uniquement",
+          "Les règles du Code de la route"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Quelle est la langue officielle de la République française ?",
+        "options": [
+          "L'anglais",
+          "Le français",
+          "Le latin",
+          "L'espagnol"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Quel animal est traditionnellement associé à la France ?",
+        "options": [
+          "L'aigle",
+          "Le coq",
+          "Le lion",
+          "L'ours"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Quel symbole de la République française est tricolore ?",
+        "options": [
+          "Le drapeau",
+          "Marianne",
+          "Le coq",
+          "Le bonnet phrygien"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "La fraternité dans la devise signifie notamment :",
+        "options": [
+          "La solidarité entre les personnes",
+          "L'obligation d'être membre d'une association",
+          "Le droit de ne pas respecter les autres",
+          "L'obligation d'avoir une religion"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Les associations peuvent notamment :",
+        "options": [
+          "Participer à la vie sociale et citoyenne",
+          "Remplacer le Parlement",
+          "Faire les lois",
+          "Juger les citoyens"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Qui dirige le Gouvernement ?",
+        "options": [
+          "Le président du Sénat",
+          "Le Premier ministre",
+          "Le président de l'Assemblée nationale",
+          "Le préfet"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Qui possède le pouvoir exécutif ?",
+        "options": [
+          "Le président de la République et le Gouvernement",
+          "Les tribunaux uniquement",
+          "Le Parlement uniquement",
+          "Les maires uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "question": "Quel est le rôle du Parlement ?",
+        "options": [
+          "Voter les lois et contrôler le Gouvernement",
+          "Diriger les tribunaux",
+          "Commander l'armée seul",
+          "Nommer tous les maires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Combien de temps dure normalement le mandat des sénateurs ?",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "6 ans"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 13,
+        "question": "Qui peut voter aux élections en France ?",
+        "options": [
+          "Toute personne vivant en France, quel que soit son âge",
+          "Les citoyens français majeurs remplissant les conditions légales",
+          "Seulement les fonctionnaires",
+          "Seulement les propriétaires"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Que signifie « suffrage universel » ?",
+        "options": [
+          "Le droit de vote réservé aux hommes",
+          "Le droit de vote réservé aux riches",
+          "Le droit de vote accordé aux citoyens remplissant les conditions légales, sans distinction injustifiée",
+          "Le vote réservé aux élus"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "question": "Quel est le rôle d'un préfet ?",
+        "options": [
+          "Représenter l'État dans le département ou la région",
+          "Diriger le Parlement",
+          "Juger les infractions",
+          "Être élu par les habitants"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Les dirigeants sont élus par les citoyens dans :",
+        "options": [
+          "Une démocratie",
+          "Une monarchie absolue",
+          "Une dictature",
+          "Un empire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Quel texte proclame notamment la liberté et l'égalité des citoyens en 1789 ?",
+        "options": [
+          "La Constitution européenne",
+          "La Déclaration des droits de l'homme et du citoyen",
+          "Le Code de la route",
+          "Le traité de Maastricht"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Le droit de propriété est :",
+        "options": [
+          "Un droit reconnu par la loi",
+          "Interdit en France",
+          "Réservé aux élus",
+          "Réservé aux entreprises"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "La liberté d'expression :",
+        "options": [
+          "Est sans aucune limite",
+          "Permet notamment d'exprimer ses opinions dans le respect de la loi",
+          "Autorise toutes les menaces",
+          "Autorise toutes les discriminations"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Que signifie respecter la loi ?",
+        "options": [
+          "La respecter uniquement quand elle nous convient",
+          "Se conformer aux règles juridiques applicables",
+          "La respecter seulement lorsqu'un policier est présent",
+          "La respecter uniquement au travail"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "La traite des êtres humains consiste notamment à :",
+        "options": [
+          "Organiser un voyage touristique",
+          "Exploiter des personnes par différents moyens, notamment à des fins de travail ou d'exploitation sexuelle",
+          "Aider une personne à trouver un logement",
+          "Faire du bénévolat"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Jeter volontairement des déchets dans la rue est :",
+        "options": [
+          "Autorisé",
+          "Une incivilité pouvant être sanctionnée",
+          "Obligatoire",
+          "Une liberté fondamentale"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 23,
+        "question": "Pourquoi faut-il réduire ses déchets ?",
+        "options": [
+          "Pour protéger l'environnement et économiser les ressources",
+          "Pour augmenter les impôts",
+          "Pour empêcher le recyclage",
+          "Pour éviter les élections"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "Quel est le rôle de la police ?",
+        "options": [
+          "Assurer notamment la sécurité et faire respecter la loi",
+          "Voter les lois",
+          "Rendre les jugements",
+          "Élire les députés"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Qui était Charles de Gaulle ?",
+        "options": [
+          "Un écrivain du XIXe siècle",
+          "Un général et homme d'État français",
+          "Un roi de France",
+          "Un peintre"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Qui fut le premier président de la Ve République ?",
+        "options": [
+          "Charles de Gaulle",
+          "François Mitterrand",
+          "Jacques Chirac",
+          "Georges Pompidou"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "En quelle année l'esclavage a-t-il été définitivement aboli en France ?",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1945"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "La Seconde Guerre mondiale a eu lieu :",
+        "options": [
+          "1914-1918",
+          "1929-1933",
+          "1939-1945",
+          "1954-1962"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 29,
+        "question": "Le 14 juillet célèbre notamment :",
+        "options": [
+          "La fête nationale française",
+          "La création de l'euro",
+          "La fin de la Seconde Guerre mondiale",
+          "La création de la Ve République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Quelle ville est la capitale de la France ?",
+        "options": [
+          "Lille",
+          "Nantes",
+          "Paris",
+          "Toulouse"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Quel fleuve traverse notamment Paris ?",
+        "options": [
+          "La Seine",
+          "La Loire",
+          "Le Rhône",
+          "La Garonne"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Quel musée célèbre se trouve à Paris ?",
+        "options": [
+          "Le Louvre",
+          "Le Prado",
+          "Le British Museum",
+          "Le Rijksmuseum"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Quel numéro permet de joindre la police ou la gendarmerie en cas d'urgence ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "116"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Quel numéro européen peut être utilisé pour joindre les secours ?",
+        "options": [
+          "100",
+          "112",
+          "115",
+          "119"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "À quoi sert une mutuelle santé ?",
+        "options": [
+          "À compléter certains remboursements de l'Assurance maladie",
+          "À remplacer le médecin",
+          "À délivrer les permis de conduire",
+          "À inscrire les enfants à l'école"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "En cas de problème de santé non urgent, il faut généralement contacter en premier :",
+        "options": [
+          "Le médecin traitant",
+          "Les pompiers",
+          "La police",
+          "Le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Quel est l'objectif des vaccinations obligatoires ?",
+        "options": [
+          "Protéger contre certaines maladies et contribuer à la protection collective",
+          "Obtenir un permis de conduire",
+          "Éviter de travailler",
+          "Remplacer les consultations médicales"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Qui aide notamment les demandeurs d'emploi ?",
+        "options": [
+          "France Travail",
+          "Le Sénat",
+          "La mairie uniquement",
+          "Le tribunal"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Une femme peut-elle créer une entreprise en France ?",
+        "options": [
+          "Non",
+          "Seulement avec l'autorisation de son mari",
+          "Oui",
+          "Seulement si elle est fonctionnaire"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "Quel diplôme obtient-on normalement à la fin du lycée général ou technologique ?",
+        "options": [
+          "Le brevet",
+          "Le baccalauréat",
+          "Le CAP automatiquement",
+          "Le diplôme national du collège"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Série 4 — 40 questions",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Quelle est la fête nationale française ?",
+        "options": [
+          "1er mai",
+          "8 mai",
+          "14 juillet",
+          "11 novembre"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "question": "La Marseillaise est :",
+        "options": [
+          "La devise française",
+          "L'hymne national",
+          "Le drapeau national",
+          "La Constitution"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Quelle personne symbolise la République française ?",
+        "options": [
+          "Marianne",
+          "Jeanne d'Arc",
+          "Joséphine Baker",
+          "George Sand"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Où peut-on voir le drapeau français ?",
+        "options": [
+          "Sur les bâtiments publics",
+          "Uniquement dans les écoles privées",
+          "Uniquement à l'Assemblée nationale",
+          "Seulement lors des élections"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "La République française est-elle laïque ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement en métropole",
+          "Seulement le dimanche"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement avant 18 ans",
+          "Seulement si elle est française depuis 10 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "La liberté d'expression permet-elle de tout dire ?",
+        "options": [
+          "Oui, sans aucune limite",
+          "Non, elle s'exerce dans le respect de la loi",
+          "Oui, uniquement sur Internet",
+          "Oui, uniquement dans un lieu privé"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "L'égalité devant la loi signifie :",
+        "options": [
+          "Que la loi s'applique selon des règles communes à tous",
+          "Que tout le monde doit avoir le même métier",
+          "Que tous les salaires doivent être identiques",
+          "Que tous les citoyens doivent avoir les mêmes opinions"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Qui nomme le Premier ministre ?",
+        "options": [
+          "Le Sénat",
+          "Le président de la République",
+          "L'Assemblée nationale seule",
+          "Le Conseil constitutionnel"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Qui peut renverser le Gouvernement par une motion de censure ?",
+        "options": [
+          "L'Assemblée nationale",
+          "Le Sénat seul",
+          "Le Conseil d'État",
+          "Le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "question": "Quel est le rôle du président de la République ?",
+        "options": [
+          "Il est le chef de l'État",
+          "Il vote seul toutes les lois",
+          "Il dirige toutes les communes",
+          "Il rend seul tous les jugements"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Qui exerce le pouvoir législatif ?",
+        "options": [
+          "Le Gouvernement",
+          "Le Parlement",
+          "La police",
+          "Les préfets"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Qui compose le Parlement ?",
+        "options": [
+          "Les maires et les préfets",
+          "Les députés et les sénateurs",
+          "Les juges et les policiers",
+          "Les ministres et les maires"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Qui élit les députés ?",
+        "options": [
+          "Les citoyens",
+          "Les sénateurs",
+          "Les préfets",
+          "Les juges"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Qui élit les sénateurs ?",
+        "options": [
+          "Tous les citoyens directement",
+          "Des grands électeurs",
+          "Le président de la République",
+          "Les ministres"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Quelle est la durée normale du mandat présidentiel ?",
+        "options": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "À quel âge peut-on voter en France ?",
+        "options": [
+          "16 ans",
+          "17 ans",
+          "18 ans",
+          "21 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "question": "Pour voter, faut-il notamment être inscrit sur les listes électorales ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pour voter à la présidentielle",
+          "Seulement pour les élections municipales"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "Quel est le rôle d'un juge ?",
+        "options": [
+          "Appliquer le droit et rendre la justice",
+          "Voter les lois",
+          "Diriger le Gouvernement",
+          "Organiser les élections"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "Qui représente l'État dans un département ?",
+        "options": [
+          "Le maire",
+          "Le préfet",
+          "Le député",
+          "Le sénateur"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Quel texte est au sommet de l'ordre juridique français ?",
+        "options": [
+          "La Constitution",
+          "Le règlement intérieur d'une mairie",
+          "Le Code de la route",
+          "Une décision d'entreprise"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "La Déclaration des droits de l'homme et du citoyen date de :",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "La peine de mort est-elle autorisée en France ?",
+        "options": [
+          "Oui",
+          "Non, elle est abolie",
+          "Oui pour les crimes graves",
+          "Oui en période électorale"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Le mariage forcé est-il autorisé ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pour les étrangers",
+          "Seulement dans certaines communes"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "question": "La polygamie est-elle légalement autorisée en France ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pour les personnes étrangères",
+          "Seulement avec l'accord du maire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Quel est le rôle de la gendarmerie ?",
+        "options": [
+          "Participer à la sécurité et faire respecter la loi",
+          "Voter les lois",
+          "Élire les députés",
+          "Rendre les décisions du Parlement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Quelle est l'infraction la plus grave en droit pénal français ?",
+        "options": [
+          "La contravention",
+          "Le délit",
+          "Le crime",
+          "L'incivilité"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 28,
+        "question": "Que doit faire une victime de violences ?",
+        "options": [
+          "Elle peut porter plainte et demander de l'aide",
+          "Elle doit garder le silence",
+          "Elle doit se venger",
+          "Elle doit quitter son logement immédiatement dans tous les cas"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Quand a commencé la Révolution française ?",
+        "options": [
+          "1776",
+          "1789",
+          "1804",
+          "1848"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Qui était le roi de France au début de la Révolution française ?",
+        "options": [
+          "Louis XIV",
+          "Louis XV",
+          "Louis XVI",
+          "Charles X"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Qui était Napoléon Ier ?",
+        "options": [
+          "Un empereur français",
+          "Un président de la Ve République",
+          "Un écrivain",
+          "Un ministre de Jules Ferry"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Quand a eu lieu la Première Guerre mondiale ?",
+        "options": [
+          "1914-1918",
+          "1939-1945",
+          "1870-1871",
+          "1954-1962"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Qui était Albert Camus ?",
+        "options": [
+          "Un écrivain et philosophe français",
+          "Un président",
+          "Un roi",
+          "Un militaire de la Révolution"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Qui était Joséphine Baker ?",
+        "options": [
+          "Une artiste et résistante engagée dans la France libre",
+          "Une reine française",
+          "Une scientifique",
+          "Une ministre de la Ve République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Dans quelle ville se trouve la tour Eiffel ?",
+        "options": [
+          "Lyon",
+          "Paris",
+          "Marseille",
+          "Strasbourg"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "Quel océan borde l'ouest de la France métropolitaine ?",
+        "options": [
+          "Atlantique",
+          "Indien",
+          "Pacifique",
+          "Arctique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Quelle mer se trouve au sud de la France métropolitaine ?",
+        "options": [
+          "Mer Baltique",
+          "Mer Méditerranée",
+          "Mer du Nord",
+          "Mer Noire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Que faut-il faire après avoir obtenu son permis pour conduire légalement une voiture ?",
+        "options": [
+          "Respecter les règles applicables au véhicule et être assuré",
+          "Ne rien faire",
+          "Obtenir l'autorisation du maire",
+          "S'inscrire au Sénat"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Quel organisme gère notamment l'Assurance maladie ?",
+        "options": [
+          "L'Assurance Maladie",
+          "France Travail",
+          "Le Sénat",
+          "La préfecture"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Quelle est la durée légale hebdomadaire du travail à temps complet ?",
+        "options": [
+          "25 heures",
+          "30 heures",
+          "35 heures",
+          "40 heures"
+        ],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Série 5 — Niveau intermédiaire",
+    "questions": [
+      {
+        "number": 1,
+        "question": "La République française garantit :",
+        "options": [
+          "Une religion officielle",
+          "La liberté de conscience",
+          "Une langue différente pour chaque région",
+          "Le droit de ne pas respecter les lois"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "La laïcité garantit notamment :",
+        "options": [
+          "La liberté de croire ou de ne pas croire",
+          "L'interdiction des religions",
+          "Une religion obligatoire",
+          "Le financement obligatoire de toutes les religions"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "question": "Un citoyen peut-il critiquer une décision du Gouvernement ?",
+        "options": [
+          "Non",
+          "Oui, dans le respect de la loi",
+          "Seulement s'il est député",
+          "Seulement pendant les élections"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "La discrimination fondée sur le sexe est-elle autorisée ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement dans les entreprises",
+          "Seulement dans les associations"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Quelle est la devise de la République ?",
+        "options": [
+          "Travail, Famille, Patrie",
+          "Liberté, Égalité, Fraternité",
+          "Justice, Travail, Égalité",
+          "Paix, Travail, Solidarité"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Quel symbole est une représentation de la République ?",
+        "options": [
+          "Marianne",
+          "Le palais de Versailles",
+          "Le Mont-Blanc",
+          "La Tour Eiffel"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Le français est :",
+        "options": [
+          "Une langue régionale officielle",
+          "La langue de la République",
+          "Une langue facultative dans l'administration",
+          "Une langue réservée aux citoyens français"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "La fraternité implique notamment :",
+        "options": [
+          "La solidarité entre les citoyens",
+          "L'obligation d'être de la même religion",
+          "L'obligation d'avoir les mêmes opinions",
+          "L'interdiction des associations"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Le président de la République est élu au :",
+        "options": [
+          "Suffrage universel",
+          "Suffrage censitaire",
+          "Suffrage indirect uniquement",
+          "Tirage au sort"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Le Gouvernement est dirigé par :",
+        "options": [
+          "Le président du Sénat",
+          "Le Premier ministre",
+          "Le président de l'Assemblée nationale",
+          "Le préfet"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Le Parlement peut-il contrôler l'action du Gouvernement ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement le Sénat",
+          "Seulement pendant les élections"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Combien y a-t-il de députés à l'Assemblée nationale ?",
+        "options": [
+          "348",
+          "577",
+          "650",
+          "700"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Les sénateurs représentent notamment :",
+        "options": [
+          "Les collectivités territoriales",
+          "Les tribunaux",
+          "Les entreprises privées",
+          "Les associations uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Le maire est élu :",
+        "options": [
+          "Par le président de la République",
+          "Par le conseil municipal",
+          "Par le préfet",
+          "Par les sénateurs"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Quel est le rôle du préfet ?",
+        "options": [
+          "Représenter l'État",
+          "Diriger le Parlement",
+          "Juger les crimes",
+          "Voter les lois"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Le pouvoir législatif consiste notamment à :",
+        "options": [
+          "Faire et voter les lois",
+          "Juger les citoyens",
+          "Diriger les communes",
+          "Commander la police"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Le respect de la loi est :",
+        "options": [
+          "Un devoir",
+          "Facultatif",
+          "Réservé aux fonctionnaires",
+          "Réservé aux citoyens français"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "Quel document affirme les droits de l'homme et du citoyen en 1789 ?",
+        "options": [
+          "La DDHC",
+          "Le Code pénal",
+          "Le Code de la route",
+          "Le traité de Rome"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "Une personne accusée d'une infraction a-t-elle des droits ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement si elle est française",
+          "Seulement si elle est majeure"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "La présomption d'innocence signifie :",
+        "options": [
+          "Toute personne est considérée innocente tant qu'elle n'est pas condamnée",
+          "Toute personne arrêtée est coupable",
+          "Seuls les citoyens français sont innocents",
+          "La police ne peut jamais arrêter quelqu'un"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Peut-on se faire justice soi-même ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pour un petit délit",
+          "Seulement si la victime est d'accord"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Une liberté individuelle peut être limitée :",
+        "options": [
+          "Dans les conditions prévues par la loi",
+          "À la demande de n'importe qui",
+          "Sans aucune justification",
+          "Uniquement par une association"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "La peine de mort est :",
+        "options": [
+          "Abolie en France",
+          "Obligatoire pour les crimes",
+          "Possible sur décision du maire",
+          "Possible pour les étrangers"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "Le mariage entre deux personnes de même sexe est-il légal en France ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement à Paris",
+          "Seulement pour les citoyens français"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "La Révolution française débute en :",
+        "options": [
+          "1789",
+          "1815",
+          "1848",
+          "1905"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "La Déclaration des droits de l'homme et du citoyen a été adoptée pendant :",
+        "options": [
+          "La Révolution française",
+          "La Première Guerre mondiale",
+          "La Ve République",
+          "La Seconde Guerre mondiale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Qui a été président de la République avant Emmanuel Macron ?",
+        "options": [
+          "Nicolas Sarkozy",
+          "François Hollande",
+          "Jacques Chirac",
+          "Les trois"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 28,
+        "question": "Le 8 mai correspond à :",
+        "options": [
+          "La victoire de 1945 sur l'Allemagne nazie en Europe",
+          "La fête nationale",
+          "La fin de la Première Guerre mondiale",
+          "La création de l'Union européenne"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "La CEE a été créée en :",
+        "options": [
+          "1945",
+          "1957",
+          "1968",
+          "1992"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "La Ve République commence en :",
+        "options": [
+          "1946",
+          "1954",
+          "1958",
+          "1962"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Qui était Jean de La Fontaine ?",
+        "options": [
+          "Un écrivain célèbre pour ses fables",
+          "Un président",
+          "Un peintre",
+          "Un scientifique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Qui était Paul Cézanne ?",
+        "options": [
+          "Un peintre",
+          "Un écrivain",
+          "Un homme politique",
+          "Un explorateur"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Quel numéro appeler pour joindre le SAMU ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "112 uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Quel numéro appeler pour les pompiers ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "114"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 35,
+        "question": "Le travail non déclaré est :",
+        "options": [
+          "Légal",
+          "Illégal",
+          "Obligatoire pour les étrangers",
+          "Autorisé pour les étudiants"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 36,
+        "question": "Le SMIC correspond :",
+        "options": [
+          "Au salaire minimum légal",
+          "À une allocation familiale",
+          "À une assurance",
+          "À une taxe"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "France Travail accompagne notamment :",
+        "options": [
+          "Les demandeurs d'emploi",
+          "Les juges",
+          "Les députés",
+          "Les médecins uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Une femme peut-elle créer une entreprise ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement avec l'accord de son conjoint",
+          "Seulement si elle a plus de 40 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "La carte Vitale sert principalement :",
+        "options": [
+          "À faciliter la prise en charge et le remboursement des soins",
+          "À voter",
+          "À conduire",
+          "À voyager"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "L'école est obligatoire pour les enfants soumis à l'obligation d'instruction :",
+        "options": [
+          "Jusqu'à 10 ans",
+          "Jusqu'à 14 ans",
+          "Jusqu'à 16 ans",
+          "Jusqu'à 18 ans"
+        ],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Série 6 — Niveau difficile",
+    "questions": [
+      {
+        "number": 1,
+        "question": "La Constitution affirme que la France est une République :",
+        "options": [
+          "Indivisible, laïque, démocratique et sociale",
+          "Fédérale, laïque et monarchique",
+          "Indivisible, religieuse et sociale",
+          "Fédérale et monarchique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "question": "Le principe de laïcité signifie notamment que :",
+        "options": [
+          "L'État reconnaît une religion officielle",
+          "L'État garantit la liberté de conscience",
+          "Les religions sont interdites",
+          "Les citoyens doivent être athées"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Une personne peut-elle changer de religion ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement avec l'accord de l'État",
+          "Seulement avant 18 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "La liberté d'expression peut être limitée :",
+        "options": [
+          "Par la loi dans certaines situations",
+          "Jamais",
+          "Par n'importe quel citoyen",
+          "Seulement pendant les élections"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "Quel principe interdit les discriminations injustifiées entre les citoyens ?",
+        "options": [
+          "L'égalité",
+          "La monarchie",
+          "La souveraineté militaire",
+          "La neutralité électorale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Le Parlement exerce principalement :",
+        "options": [
+          "Le pouvoir législatif",
+          "Le pouvoir judiciaire",
+          "Le pouvoir exécutif",
+          "Le pouvoir administratif"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Le Gouvernement exerce principalement :",
+        "options": [
+          "Le pouvoir exécutif",
+          "Le pouvoir judiciaire",
+          "Le pouvoir législatif",
+          "Le pouvoir constitutionnel uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "L'autorité judiciaire est chargée notamment :",
+        "options": [
+          "De rendre la justice",
+          "De voter les lois",
+          "De nommer les ministres",
+          "De diriger les communes"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Le président de la République nomme :",
+        "options": [
+          "Le Premier ministre",
+          "Tous les députés",
+          "Tous les maires",
+          "Tous les juges"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Le Premier ministre est :",
+        "options": [
+          "Le chef du Gouvernement",
+          "Le chef du Parlement",
+          "Le chef de l'État",
+          "Le président du Sénat"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "question": "Une loi est votée par :",
+        "options": [
+          "Le Parlement",
+          "Le préfet",
+          "La police",
+          "Le Conseil constitutionnel seul"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Les députés sont élus pour :",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "6 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "question": "Les sénateurs sont élus pour :",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "6 ans"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "question": "Le président de la République est élu pour :",
+        "options": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Qui peut voter à une élection en France ?",
+        "options": [
+          "Une personne remplissant les conditions légales, notamment d'âge et de nationalité selon l'élection",
+          "Toute personne présente sur le territoire",
+          "Seulement les fonctionnaires",
+          "Seulement les propriétaires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Le suffrage universel signifie notamment :",
+        "options": [
+          "Le droit de vote sans distinction fondée sur la richesse ou le sexe, sous réserve des conditions légales",
+          "Le vote réservé aux diplômés",
+          "Le vote réservé aux hommes",
+          "Le vote réservé aux propriétaires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Un ministre est-il au-dessus des lois ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pendant son mandat",
+          "Seulement lorsqu'il agit au nom de l'État"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Le Conseil constitutionnel vérifie notamment :",
+        "options": [
+          "La conformité de certaines lois à la Constitution",
+          "Les résultats du baccalauréat",
+          "Les permis de conduire",
+          "Les contrats de travail"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "La DDHC date de :",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "La liberté de conscience est :",
+        "options": [
+          "Un principe garanti en France",
+          "Interdite",
+          "Réservée aux élus",
+          "Réservée aux fonctionnaires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Quelle est l'infraction la plus grave ?",
+        "options": [
+          "Contravention",
+          "Délit",
+          "Crime",
+          "Infraction administrative"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "Une personne victime d'une infraction peut notamment :",
+        "options": [
+          "Porter plainte",
+          "Punir elle-même l'auteur",
+          "Modifier la loi",
+          "Condamner l'auteur"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Le principe de présomption d'innocence concerne :",
+        "options": [
+          "Les personnes poursuivies avant leur condamnation définitive",
+          "Uniquement les mineurs",
+          "Uniquement les étrangers",
+          "Uniquement les fonctionnaires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "La peine de mort est interdite en France parce qu'elle est :",
+        "options": [
+          "Abolie",
+          "Réservée aux militaires",
+          "Autorisée uniquement en temps de guerre",
+          "Réservée aux crimes politiques"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "En quelle année Napoléon Ier devient-il empereur ?",
+        "options": [
+          "1789",
+          "1799",
+          "1804",
+          "1815"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 26,
+        "question": "La Première Guerre mondiale s'est déroulée de :",
+        "options": [
+          "1914 à 1918",
+          "1918 à 1922",
+          "1939 à 1945",
+          "1940 à 1944"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "La Shoah désigne :",
+        "options": [
+          "Le génocide des Juifs d'Europe par les nazis et leurs collaborateurs",
+          "La Première Guerre mondiale",
+          "La Révolution française",
+          "La guerre d'Algérie"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 28,
+        "question": "En quelle année l'esclavage a-t-il été définitivement aboli en France ?",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1946"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "Qui a fondé la Ve République ?",
+        "options": [
+          "Charles de Gaulle",
+          "Jules Ferry",
+          "Louis XVI",
+          "Napoléon III"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Le 11 novembre commémore :",
+        "options": [
+          "L'armistice de 1918",
+          "La fête nationale",
+          "L'abolition de l'esclavage",
+          "La création de la Ve République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "Quel écrivain est l'auteur des « Misérables » ?",
+        "options": [
+          "Victor Hugo",
+          "Molière",
+          "Albert Camus",
+          "Charles Baudelaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Qui était Marc Chagall ?",
+        "options": [
+          "Un artiste peintre",
+          "Un président",
+          "Un militaire",
+          "Un roi"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "La Corse est située :",
+        "options": [
+          "En Méditerranée",
+          "Dans l'océan Atlantique",
+          "Dans la Manche",
+          "Dans la mer du Nord"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Les Alpes se trouvent notamment :",
+        "options": [
+          "À l'est et au sud-est de la France",
+          "À l'ouest de la Bretagne",
+          "Au nord de Lille",
+          "En Corse uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Quel numéro européen permet d'appeler les secours ?",
+        "options": [
+          "112",
+          "115",
+          "116",
+          "119"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Quel numéro est destiné aux personnes ayant des difficultés à entendre ou à parler pour contacter les services d'urgence ?",
+        "options": [
+          "114",
+          "117",
+          "118",
+          "120"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Le médecin traitant joue notamment un rôle :",
+        "options": [
+          "Dans le suivi médical du patient",
+          "Dans l'organisation des élections",
+          "Dans l'attribution du permis de conduire",
+          "Dans la justice pénale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Une vaccination obligatoire vise notamment à :",
+        "options": [
+          "Prévenir certaines maladies",
+          "Obtenir automatiquement un emploi",
+          "Remplacer tous les soins médicaux",
+          "Éviter l'inscription scolaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Un mariage reconnu juridiquement en France doit notamment :",
+        "options": [
+          "Être célébré selon les règles de l'état civil",
+          "Être uniquement religieux",
+          "Être célébré par un membre de la famille",
+          "Être organisé à l'étranger"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Le travail dissimulé est :",
+        "options": [
+          "Autorisé",
+          "Interdit",
+          "Obligatoire pour les indépendants",
+          "Autorisé pour les petits emplois"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Série 7 — Questions pièges",
+    "questions": [
+      {
+        "number": 1,
+        "question": "La France est-elle une monarchie ?",
+        "options": [
+          "Oui",
+          "Non, c'est une République",
+          "Oui, uniquement en outre-mer",
+          "Oui, depuis 1958"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Le président de la République possède-t-il tous les pouvoirs ?",
+        "options": [
+          "Oui",
+          "Non, les pouvoirs sont répartis entre différentes institutions",
+          "Oui en période électorale",
+          "Oui en cas de majorité parlementaire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Le président peut-il voter seul toutes les lois ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Oui pour les lois financières",
+          "Oui avec l'accord du maire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "Le Parlement est composé :",
+        "options": [
+          "Du président et du Premier ministre",
+          "De l'Assemblée nationale et du Sénat",
+          "Des préfets et des maires",
+          "Des juges et des policiers"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Le président de la République est :",
+        "options": [
+          "Le chef de l'État",
+          "Le chef du Parlement",
+          "Le chef de toutes les communes",
+          "Le chef de l'autorité judiciaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Le Premier ministre est :",
+        "options": [
+          "Le chef du Gouvernement",
+          "Le chef de l'État",
+          "Le chef du Sénat",
+          "Le président de l'Assemblée nationale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Les députés sont élus :",
+        "options": [
+          "Par les citoyens",
+          "Par les sénateurs",
+          "Par le président",
+          "Par les préfets"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Les sénateurs sont élus :",
+        "options": [
+          "Directement par tous les citoyens",
+          "Par des grands électeurs",
+          "Par le Gouvernement",
+          "Par les maires seuls"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "La loi s'applique-t-elle aux ministres ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement après leur mandat",
+          "Seulement pour les infractions routières"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Un citoyen peut-il avoir une religion ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement une religion reconnue par l'État",
+          "Seulement s'il est majeur"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 11,
+        "question": "Un citoyen peut-il ne pas avoir de religion ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement avant 18 ans",
+          "Seulement s'il est étranger"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "La laïcité impose-t-elle d'être athée ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Oui dans les écoles uniquement",
+          "Oui pour les fonctionnaires uniquement"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "La liberté d'expression permet-elle de menacer quelqu'un ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement sur Internet",
+          "Seulement anonymement"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Peut-on discriminer une personne en raison de son sexe ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement au travail",
+          "Seulement dans les associations"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Peut-on refuser une loi parce qu'elle ne nous plaît pas ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement si elle est récente",
+          "Seulement si on est majeur"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Le juge appartient à :",
+        "options": [
+          "L'autorité judiciaire",
+          "L'autorité exécutive",
+          "L'autorité municipale",
+          "L'autorité législative"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Qui vote les lois ?",
+        "options": [
+          "Le Parlement",
+          "Le juge",
+          "La police",
+          "Le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "Qui représente l'État dans un département ?",
+        "options": [
+          "Le préfet",
+          "Le maire",
+          "Le député",
+          "Le sénateur"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "Le maire est-il le représentant de l'État dans le département ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement à Paris",
+          "Seulement dans les communes rurales"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Quel est le rôle du maire ?",
+        "options": [
+          "Administrer la commune avec le conseil municipal",
+          "Diriger le Gouvernement",
+          "Voter toutes les lois nationales",
+          "Rendre les décisions judiciaires"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "La Déclaration des droits de l'homme et du citoyen date de :",
+        "options": [
+          "1789",
+          "1804",
+          "1848",
+          "1958"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "La peine de mort en France est :",
+        "options": [
+          "Abolie",
+          "Obligatoire pour certains crimes",
+          "Possible pour les crimes terroristes",
+          "Possible sur décision présidentielle"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "La polygamie est-elle autorisée en France ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Oui pour les étrangers",
+          "Oui si les époux sont d'accord"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Le mariage forcé est-il autorisé ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement dans certaines religions",
+          "Seulement à l'étranger"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "question": "Quelle guerre s'est déroulée de 1939 à 1945 ?",
+        "options": [
+          "La Première Guerre mondiale",
+          "La Seconde Guerre mondiale",
+          "La guerre de Cent Ans",
+          "La guerre d'Algérie"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Le 8 mai est un jour férié en France parce qu'il commémore :",
+        "options": [
+          "La victoire de 1945 en Europe",
+          "La fête nationale",
+          "L'armistice de 1918",
+          "La Révolution française"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Le 11 novembre commémore :",
+        "options": [
+          "La fin de la Première Guerre mondiale",
+          "La fin de la Seconde Guerre mondiale",
+          "La fête nationale",
+          "L'abolition de l'esclavage"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 28,
+        "question": "Qui était Jules Ferry ?",
+        "options": [
+          "Un homme politique associé aux lois scolaires de la IIIe République",
+          "Un roi",
+          "Un empereur",
+          "Un peintre"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Paris est :",
+        "options": [
+          "La capitale de la France",
+          "La capitale de l'Union européenne",
+          "Une région",
+          "Un département d'outre-mer"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Quel océan borde l'ouest de la France métropolitaine ?",
+        "options": [
+          "Atlantique",
+          "Pacifique",
+          "Indien",
+          "Arctique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "La Méditerranée se situe :",
+        "options": [
+          "Au sud de la France métropolitaine",
+          "Au nord",
+          "À l'ouest",
+          "À l'est de la Corse uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Le Louvre est :",
+        "options": [
+          "Un musée",
+          "Une université",
+          "Un tribunal",
+          "Une mairie"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Le SMIC est :",
+        "options": [
+          "Un salaire minimum légal",
+          "Une assurance santé",
+          "Une allocation logement",
+          "Un impôt"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "En cas d'urgence médicale, quel numéro peut-on appeler ?",
+        "options": [
+          "15",
+          "17",
+          "18 uniquement",
+          "119"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "En cas d'incendie, quel numéro peut-on appeler ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "116"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 36,
+        "question": "Pour un problème médical non urgent, il est généralement préférable de :",
+        "options": [
+          "Contacter son médecin traitant",
+          "Appeler systématiquement le 18",
+          "Aller systématiquement aux urgences",
+          "Appeler la police"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "La carte Vitale concerne principalement :",
+        "options": [
+          "L'Assurance maladie",
+          "Les élections",
+          "Le permis de conduire",
+          "L'état civil"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Une mutuelle peut :",
+        "options": [
+          "Compléter certains remboursements de santé",
+          "Remplacer l'État",
+          "Délivrer un passeport",
+          "Voter les lois"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "L'instruction est obligatoire en France :",
+        "options": [
+          "De 3 à 16 ans",
+          "De 6 à 14 ans",
+          "De 10 à 18 ans",
+          "Uniquement jusqu'à l'école primaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Noël est célébré :",
+        "options": [
+          "Le 14 juillet",
+          "Le 25 décembre",
+          "Le 11 novembre",
+          "Le 1er mai"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Série 8 — Mises en situation",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Votre voisin est victime d'un malaise grave. Que faites-vous ?",
+        "options": [
+          "Vous partez",
+          "Vous appelez les secours adaptés",
+          "Vous attendez le lendemain",
+          "Vous appelez la mairie"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Vous voyez un accident avec une personne blessée.",
+        "options": [
+          "Vous ne faites rien",
+          "Vous protégez, alertez et portez assistance dans la mesure du possible",
+          "Vous déplacez systématiquement la victime",
+          "Vous quittez les lieux"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Vous êtes témoin d'un incendie.",
+        "options": [
+          "Vous appelez les pompiers",
+          "Vous attendez que quelqu'un d'autre le fasse",
+          "Vous entrez dans le bâtiment sans protection",
+          "Vous appelez le Sénat"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Votre enfant est victime de violences.",
+        "options": [
+          "Vous ne dites rien",
+          "Vous cherchez de l'aide et signalez les faits aux autorités compétentes",
+          "Vous punissez vous-même l'auteur",
+          "Vous attendez sa majorité"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 5,
+        "question": "Votre employeur vous propose de travailler sans déclaration.",
+        "options": [
+          "C'est normal",
+          "Il s'agit de travail dissimulé",
+          "C'est obligatoire",
+          "C'est autorisé pour tous les salariés"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Vous voulez créer une entreprise.",
+        "options": [
+          "Une femme ne peut pas",
+          "Un homme seulement peut le faire",
+          "Une personne peut créer une entreprise sous réserve de respecter les conditions légales",
+          "Il faut être député"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Vous avez un problème de santé non urgent.",
+        "options": [
+          "Vous pouvez contacter votre médecin traitant",
+          "Vous appelez immédiatement la police",
+          "Vous appelez les pompiers",
+          "Vous contactez le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Vous devez aller aux urgences parce que votre état de santé est grave.",
+        "options": [
+          "Les urgences sont adaptées aux situations nécessitant une prise en charge urgente",
+          "Il faut attendre plusieurs semaines",
+          "Il faut obligatoirement passer par la mairie",
+          "Il faut appeler France Travail"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Vous souhaitez voter à une élection.",
+        "options": [
+          "Vous devez remplir les conditions légales pour voter",
+          "Il suffit d'être touriste",
+          "Il suffit d'avoir un logement",
+          "Il suffit d'avoir un contrat de travail"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Vous n'êtes pas d'accord avec une loi.",
+        "options": [
+          "Vous pouvez l'ignorer",
+          "Vous devez la respecter tant qu'elle est en vigueur",
+          "Vous pouvez la supprimer vous-même",
+          "Vous pouvez demander au maire de l'annuler"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Votre ami vous demande de falsifier un document administratif.",
+        "options": [
+          "Vous pouvez le faire",
+          "Vous devez refuser",
+          "C'est obligatoire",
+          "C'est autorisé si c'est un ami"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 12,
+        "question": "Vous êtes victime d'un vol.",
+        "options": [
+          "Vous pouvez porter plainte",
+          "Vous devez vous venger",
+          "Vous devez poursuivre le voleur vous-même",
+          "Vous devez modifier la loi"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Une personne vous demande votre religion.",
+        "options": [
+          "Vous êtes libre d'avoir ou non une religion",
+          "Vous devez obligatoirement répondre",
+          "Vous devez déclarer une religion à la mairie",
+          "Vous devez choisir la religion majoritaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Un collègue tient des propos discriminatoires contre une personne handicapée.",
+        "options": [
+          "La discrimination est autorisée",
+          "Ces comportements peuvent être interdits par la loi",
+          "Il faut rire avec lui",
+          "Il peut faire tout ce qu'il veut au travail"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "Une personne veut épouser quelqu'un contre sa volonté.",
+        "options": [
+          "C'est légal",
+          "Le mariage doit être librement consenti",
+          "C'est obligatoire dans certaines familles",
+          "Le maire peut imposer le mariage"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Vous souhaitez divorcer.",
+        "options": [
+          "Le divorce est possible selon les procédures prévues par la loi",
+          "Le divorce est interdit",
+          "Il faut l'autorisation du président",
+          "Il faut attendre 20 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Vous voulez vous débarrasser d'une machine à laver cassée.",
+        "options": [
+          "Vous la déposez sur le trottoir",
+          "Vous utilisez une solution adaptée de collecte ou de déchetterie",
+          "Vous la jetez dans une rivière",
+          "Vous la laissez dans la rue"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Vous avez une bouteille vide.",
+        "options": [
+          "Vous la jetez n'importe où",
+          "Vous utilisez le dispositif de tri approprié",
+          "Vous la laissez dans la rue",
+          "Vous la jetez dans un cours d'eau"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Votre enfant doit être instruit.",
+        "options": [
+          "L'instruction est obligatoire dans les conditions prévues par la loi",
+          "Elle est facultative pour tous",
+          "Elle commence uniquement à 10 ans",
+          "Elle est obligatoire uniquement pour les garçons"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "Vous avez perdu votre carte Vitale.",
+        "options": [
+          "Vous pouvez effectuer les démarches auprès de l'Assurance Maladie",
+          "Vous appelez la police uniquement",
+          "Vous appelez le Sénat",
+          "Vous devez refaire votre passeport"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Vous souhaitez connaître vos droits en matière de santé.",
+        "options": [
+          "Vous pouvez vous renseigner auprès de l'Assurance Maladie et des professionnels compétents",
+          "Vous devez demander au maire",
+          "Vous devez demander au Parlement",
+          "Vous devez demander à la police"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "Vous êtes victime de violences conjugales.",
+        "options": [
+          "Vous pouvez demander de l'aide et signaler les violences",
+          "Vous devez rester silencieux",
+          "Vous devez vous venger",
+          "Vous ne pouvez jamais porter plainte"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Vous assistez à un cambriolage en cours.",
+        "options": [
+          "Vous pouvez alerter la police ou la gendarmerie",
+          "Vous devez intervenir physiquement",
+          "Vous devez entrer dans le logement",
+          "Vous devez attendre le lendemain"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "Vous voulez exprimer une opinion politique.",
+        "options": [
+          "Vous pouvez le faire dans le respect de la loi",
+          "C'est interdit",
+          "Seuls les députés peuvent le faire",
+          "Seuls les fonctionnaires peuvent le faire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Vous voulez créer une association.",
+        "options": [
+          "C'est possible sous réserve de respecter les règles applicables",
+          "C'est interdit",
+          "Il faut être député",
+          "Il faut être maire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Vous voulez pratiquer une religion.",
+        "options": [
+          "Vous êtes libre de votre religion dans le respect des lois",
+          "Vous devez obtenir l'autorisation du président",
+          "Vous devez demander au préfet",
+          "C'est interdit"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Vous voulez changer de religion.",
+        "options": [
+          "C'est interdit",
+          "Vous êtes libre de changer de religion",
+          "Il faut obtenir un permis",
+          "Il faut attendre 21 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "Votre employeur ne vous paie pas correctement.",
+        "options": [
+          "Vous pouvez demander conseil et faire valoir vos droits",
+          "Vous devez accepter",
+          "Vous devez travailler gratuitement",
+          "Vous devez quitter la France"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Vous cherchez un emploi.",
+        "options": [
+          "Vous pouvez vous inscrire auprès de France Travail",
+          "Vous devez vous inscrire au Sénat",
+          "Vous devez contacter le président",
+          "Vous devez contacter la police"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Vous voulez conduire une voiture.",
+        "options": [
+          "Vous devez notamment avoir le permis approprié et respecter les obligations applicables au véhicule",
+          "Il suffit d'acheter une voiture",
+          "Le permis est facultatif",
+          "Il suffit d'avoir une carte Vitale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "Vous êtes témoin d'une situation dangereuse.",
+        "options": [
+          "Vous pouvez alerter les secours appropriés",
+          "Vous ne devez jamais appeler les secours",
+          "Vous appelez uniquement la mairie",
+          "Vous attendez une élection"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Vous avez un enfant. Sa naissance doit être déclarée :",
+        "options": [
+          "À l'état civil de la mairie selon les délais légaux",
+          "Au Sénat",
+          "À France Travail",
+          "À la police uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Vous voulez vous marier civilement.",
+        "options": [
+          "Le mariage civil est célébré par l'officier de l'état civil",
+          "Il suffit d'une cérémonie privée",
+          "Le mariage religieux suffit toujours juridiquement",
+          "Le mariage doit être célébré par le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Votre enfant ne parle pas français.",
+        "options": [
+          "Il peut être scolarisé et bénéficier de dispositifs adaptés à sa situation",
+          "Il ne peut pas aller à l'école",
+          "Il doit attendre de parler français",
+          "Il doit quitter la France"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Votre enfant est inscrit à l'école.",
+        "options": [
+          "Il doit respecter les règles de l'établissement",
+          "Il peut refuser toutes les règles",
+          "Il peut ne jamais venir",
+          "Il peut décider seul du programme scolaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Vous voulez contester une décision administrative.",
+        "options": [
+          "Il existe des voies de recours prévues par le droit",
+          "Il faut se faire justice soi-même",
+          "Il faut menacer l'administration",
+          "Il n'existe aucun recours"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Vous êtes convoqué par la justice.",
+        "options": [
+          "Vous devez prendre cette convocation au sérieux et respecter les démarches prévues",
+          "Vous pouvez toujours l'ignorer",
+          "Vous devez prévenir le maire",
+          "Vous devez quitter la France"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Votre enfant doit être vacciné selon les obligations applicables.",
+        "options": [
+          "Les vaccinations obligatoires doivent être respectées selon la réglementation",
+          "Elles sont toujours facultatives",
+          "Elles sont réservées aux adultes",
+          "Elles sont interdites à l'école"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Vous voyez quelqu'un jeter des déchets dans la rue.",
+        "options": [
+          "Jeter des déchets sur la voie publique peut être sanctionné",
+          "C'est toujours autorisé",
+          "C'est obligatoire",
+          "C'est une liberté constitutionnelle"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Vous souhaitez connaître vos droits avant de signer un contrat de travail.",
+        "options": [
+          "Vous pouvez demander des informations et conseils auprès des organismes compétents",
+          "Vous devez signer sans lire",
+          "Vous devez demander au président",
+          "Vous n'avez aucun droit"
+        ],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Série 9 — EXAMEN BLANC",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Quelle est la devise française ?",
+        "options": [
+          "Liberté, Égalité, Fraternité",
+          "Travail, Famille, Patrie",
+          "Justice, Travail, Paix",
+          "Liberté, Justice, Travail"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "question": "Quelle est la langue officielle de la République ?",
+        "options": [
+          "L'anglais",
+          "Le français",
+          "L'espagnol",
+          "Le latin"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Marianne représente :",
+        "options": [
+          "La République",
+          "L'armée",
+          "Le Gouvernement",
+          "L'Europe"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "La loi de séparation des Églises et de l'État date de :",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "question": "La France est une République :",
+        "options": [
+          "Indivisible, laïque, démocratique et sociale",
+          "Monarchique et fédérale",
+          "Religieuse et sociale",
+          "Militaire et fédérale"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Qui nomme le Premier ministre ?",
+        "options": [
+          "Le président de la République",
+          "Le Sénat",
+          "Le maire",
+          "Le Conseil constitutionnel"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Qui vote les lois ?",
+        "options": [
+          "Le Parlement",
+          "Les préfets",
+          "Les juges",
+          "Les policiers"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Le Parlement comprend :",
+        "options": [
+          "L'Assemblée nationale et le Sénat",
+          "Le Gouvernement et le Sénat",
+          "Les maires et les députés",
+          "Les juges et les sénateurs"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Combien y a-t-il de députés ?",
+        "options": [
+          "348",
+          "577",
+          "600",
+          "650"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Combien de temps dure le mandat présidentiel ?",
+        "options": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "À quel âge peut-on voter ?",
+        "options": [
+          "16 ans",
+          "17 ans",
+          "18 ans",
+          "21 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "question": "Le préfet représente :",
+        "options": [
+          "L'État",
+          "La commune",
+          "Le Parlement",
+          "Les tribunaux"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Le pouvoir judiciaire est notamment exercé par :",
+        "options": [
+          "Les juridictions",
+          "Le Gouvernement",
+          "Les maires",
+          "Le Parlement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Qui est le chef du Gouvernement ?",
+        "options": [
+          "Le président",
+          "Le Premier ministre",
+          "Le président du Sénat",
+          "Le préfet"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 15,
+        "question": "La DDHC date de :",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1946"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "La liberté d'expression :",
+        "options": [
+          "Est absolue",
+          "Est encadrée par la loi",
+          "Est interdite",
+          "Est réservée aux élus"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "La peine de mort est :",
+        "options": [
+          "Autorisée",
+          "Abolie",
+          "Obligatoire",
+          "Réservée aux crimes graves"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "La polygamie est-elle légale en France ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Oui pour les étrangers",
+          "Oui avec autorisation"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Une personne peut-elle ne pas croire en Dieu ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement si elle est française",
+          "Seulement avant 18 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "La présomption d'innocence signifie :",
+        "options": [
+          "Toute22-A | 23-A | 24-B | 25-A | 26-A | 27-C | 28-A | 29 | 23-A | 24-A | 25-A | 26-A | 27-B | 28-B | 29-B | 30 personne poursuivie est coupable",
+          "Toute personne est présumée innocente avant sa condamnation",
+          "Seuls les Français sont présumés innocents",
+          "La police ne peut jamais enquêter"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "La Révolution française commence en :",
+        "options": [
+          "1789",
+          "1799",
+          "1804",
+          "1848"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "Napoléon Ier était :",
+        "options": [
+          "Un empereur",
+          "Un président",
+          "Un roi",
+          "Un député"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "La Première Guerre mondiale :",
+        "options": [
+          "1914-1918",
+          "1939-1945",
+          "1870-1871",
+          "1954-1962"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "La Seconde Guerre mondiale :",
+        "options": [
+          "1914-1918",
+          "1939-1945",
+          "1945-1950",
+          "1958-1962"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 25,
+        "question": "Le 11 novembre commémore :",
+        "options": [
+          "La fin de la Première Guerre mondiale",
+          "La fin de la Seconde Guerre mondiale",
+          "La fête nationale",
+          "La Révolution française"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Qui a fondé la Ve République ?",
+        "options": [
+          "Charles de Gaulle",
+          "Jules Ferry",
+          "Louis XVI",
+          "Victor Hugo"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "En quelle année commence la Ve République ?",
+        "options": [
+          "1946",
+          "1954",
+          "1958",
+          "1962"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 28,
+        "question": "Quel musée se trouve à Paris ?",
+        "options": [
+          "Le Louvre",
+          "Le Prado",
+          "Le British Museum",
+          "Le musée du Vatican"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Quelle est la capitale française ?",
+        "options": [
+          "Lyon",
+          "Paris",
+          "Marseille",
+          "Bordeaux"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Quel océan borde l'ouest de la France ?",
+        "options": [
+          "Atlantique",
+          "Indien",
+          "Pacifique",
+          "Arctique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "Quel numéro appeler pour le SAMU ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "112 uniquement"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Quel numéro appeler pour les pompiers ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "119"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 33,
+        "question": "Le SMIC est :",
+        "options": [
+          "Un salaire minimum légal",
+          "Une allocation",
+          "Une assurance",
+          "Un impôt"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "France Travail accompagne notamment :",
+        "options": [
+          "Les demandeurs d'emploi",
+          "Les juges",
+          "Les sénateurs",
+          "Les médecins"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "La carte Vitale sert à :",
+        "options": [
+          "Faciliter les démarches liées à l'Assurance maladie",
+          "Voter",
+          "Conduire",
+          "Voyager"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "L'instruction est obligatoire de :",
+        "options": [
+          "3 à 16 ans",
+          "6 à 14 ans",
+          "10 à 18 ans",
+          "16 à 18 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Le travail non déclaré est :",
+        "options": [
+          "Légal",
+          "Illégal",
+          "Obligatoire",
+          "Autorisé aux étrangers"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Une femme peut-elle créer une entreprise ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement avec son mari",
+          "Seulement après 40 ans"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "La Corse se trouve :",
+        "options": [
+          "En Méditerranée",
+          "Dans l'Atlantique",
+          "Dans la Manche",
+          "Dans la mer du Nord"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Noël est célébré le :",
+        "options": [
+          "1er janvier",
+          "25 décembre",
+          "14 juillet",
+          "31 décembre"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Série 10 — EXAMEN BLANC FINAL",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Quel est le principe selon lequel tous les citoyens ont les mêmes droits devant la loi ?",
+        "options": [
+          "La fraternité",
+          "L'égalité",
+          "La laïcité",
+          "La souveraineté"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "La liberté de conscience permet :",
+        "options": [
+          "De croire ou de ne pas croire",
+          "D'imposer sa religion aux autres",
+          "D'interdire les religions",
+          "De ne pas respecter les lois"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 3,
+        "question": "Quelle est la devise de la République ?",
+        "options": [
+          "Liberté, Égalité, Fraternité",
+          "Paix, Travail, Famille",
+          "Justice, Travail, Patrie",
+          "Liberté, Justice, Paix"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Quel est l'hymne national ?",
+        "options": [
+          "La Marseillaise",
+          "Le Chant des Partisans",
+          "La Carmagnole",
+          "Le Boléro"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "Quelle est la date de la fête nationale ?",
+        "options": [
+          "8 mai",
+          "11 novembre",
+          "14 juillet",
+          "25 décembre"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 6,
+        "question": "Quel symbole représente la République française ?",
+        "options": [
+          "Marianne",
+          "Napoléon",
+          "Jules Ferry",
+          "Molière"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Quelle est la langue officielle de la République ?",
+        "options": [
+          "Le français",
+          "L'anglais",
+          "L'espagnol",
+          "L'allemand"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "La laïcité garantit notamment :",
+        "options": [
+          "La liberté de conscience",
+          "Une religion officielle",
+          "L'interdiction des religions",
+          "L'obligation d'être athée"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "La loi de séparation des Églises et de l'État date de :",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 10,
+        "question": "La Constitution actuelle date de :",
+        "options": [
+          "1946",
+          "1958",
+          "1968",
+          "1981"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Qui est le chef de l'État ?",
+        "options": [
+          "Le président de la République",
+          "Le Premier ministre",
+          "Le président du Sénat",
+          "Le préfet"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Qui dirige le Gouvernement ?",
+        "options": [
+          "Le président du Sénat",
+          "Le Premier ministre",
+          "Le président de l'Assemblée nationale",
+          "Le maire de Paris"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 13,
+        "question": "Le Parlement est composé :",
+        "options": [
+          "De l'Assemblée nationale et du Sénat",
+          "Des maires et des préfets",
+          "Du Gouvernement et des tribunaux",
+          "Des ministres et des députés"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Qui vote les lois ?",
+        "options": [
+          "Le Parlement",
+          "Les préfets",
+          "Les juges",
+          "Les policiers"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Qui élit les députés ?",
+        "options": [
+          "Les citoyens",
+          "Les sénateurs",
+          "Les préfets",
+          "Les ministres"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Combien y a-t-il de députés ?",
+        "options": [
+          "348",
+          "577",
+          "600",
+          "750"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 17,
+        "question": "Pour combien de temps est élu le président ?",
+        "options": [
+          "4 ans",
+          "5 ans",
+          "6 ans",
+          "7 ans"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Pour combien de temps sont élus les députés ?",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "6 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "question": "Pour combien de temps sont élus les sénateurs ?",
+        "options": [
+          "3 ans",
+          "4 ans",
+          "5 ans",
+          "6 ans"
+        ],
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "question": "À quel âge peut-on voter ?",
+        "options": [
+          "16 ans",
+          "17 ans",
+          "18 ans",
+          "21 ans"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 21,
+        "question": "Qui représente l'État dans le département ?",
+        "options": [
+          "Le maire",
+          "Le préfet",
+          "Le député",
+          "Le sénateur"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Qui dirige une commune ?",
+        "options": [
+          "Le maire",
+          "Le préfet",
+          "Le député",
+          "Le président de la République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Quel pouvoir exerce principalement le Parlement ?",
+        "options": [
+          "Le pouvoir législatif",
+          "Le pouvoir judiciaire",
+          "Le pouvoir exécutif",
+          "Le pouvoir militaire"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "Quel pouvoir est exercé par le Gouvernement ?",
+        "options": [
+          "Le pouvoir exécutif",
+          "Le pouvoir judiciaire",
+          "Le pouvoir législatif uniquement",
+          "Le pouvoir municipal"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Quelle est la date de la DDHC ?",
+        "options": [
+          "1789",
+          "1848",
+          "1905",
+          "1958"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "La peine de mort en France est :",
+        "options": [
+          "Abolie",
+          "Autorisée pour certains crimes",
+          "Autorisée en temps de guerre",
+          "Décidée par le président"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "La polygamie est :",
+        "options": [
+          "Autorisée",
+          "Interdite",
+          "Autorisée pour les étrangers",
+          "Autorisée avec accord du maire"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 28,
+        "question": "La liberté d'expression :",
+        "options": [
+          "Permet tout",
+          "S'exerce dans les limites prévues par la loi",
+          "Est interdite",
+          "Est réservée aux citoyens français"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 29,
+        "question": "Peut-on se faire justice soi-même ?",
+        "options": [
+          "Oui",
+          "Non",
+          "Seulement pour un délit",
+          "Seulement si la police est absente"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Quelle est l'infraction la plus grave ?",
+        "options": [
+          "Contravention",
+          "Délit",
+          "Crime",
+          "Incivilité"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Qui était le premier président de la Ve République ?",
+        "options": [
+          "Charles de Gaulle",
+          "François Mitterrand",
+          "Georges Pompidou",
+          "Jacques Chirac"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Quand commence la Révolution française ?",
+        "options": [
+          "1789",
+          "1799",
+          "1804",
+          "1815"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Quand a eu lieu la Première Guerre mondiale ?",
+        "options": [
+          "1914-1918",
+          "1939-1945",
+          "1870-1871",
+          "1954-1962"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+        "options": [
+          "1914-1918",
+          "1939-1945",
+          "1945-1950",
+          "1958-1962"
+        ],
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Le 11 novembre commémore :",
+        "options": [
+          "La fin de la Première Guerre mondiale",
+          "La fête nationale",
+          "La fin de la Seconde Guerre mondiale",
+          "La création de la Ve République"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Qui était Molière ?",
+        "options": [
+          "Un dramaturge et écrivain français",
+          "Un président",
+          "Un peintre",
+          "Un scientifique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+          "Marseille",
+          "Lyon",
+          "Paris",
+          "Lille"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 38,
+        "question": "Quel océan borde la côte ouest française ?",
+        "options": [
+          "Atlantique",
+          "Indien",
+          "Pacifique",
+          "Arctique"
+        ],
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Quel numéro appelle-t-on pour les pompiers ?",
+        "options": [
+          "15",
+          "17",
+          "18",
+          "115"
+        ],
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "Quel organisme accompagne notamment les demandeurs d'emploi ?",
+        "options": [
+          "France Travail",
+          "Le Sénat",
+          "Le Conseil constitutionnel",
+          "La mairie"
+        ],
+        "answer": "A"
+      }
+    ]
+  }
+]
