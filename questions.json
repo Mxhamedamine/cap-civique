@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Série 1 — 40 questions",
+    "title": "Série 1 — Les fondamentaux",
     "questions": [
       {
         "number": 1,
@@ -447,7 +447,7 @@
   },
   {
     "id": 2,
-    "title": "Série 2",
+    "title": "Série 2 — Valeurs et institutions",
     "questions": [
       {
         "number": 1,
@@ -893,7 +893,7 @@
   },
   {
     "id": 3,
-    "title": "Série 3 — 40 questions",
+    "title": "Série 3 — Droits et libertés",
     "questions": [
       {
         "number": 1,
@@ -1339,7 +1339,7 @@
   },
   {
     "id": 4,
-    "title": "Série 4 — 40 questions",
+    "title": "Série 4 — Repères civiques",
     "questions": [
       {
         "number": 1,
@@ -3569,7 +3569,7 @@
   },
   {
     "id": 9,
-    "title": "Série 9 — EXAMEN BLANC",
+    "title": "Série 9 — Examen blanc",
     "questions": [
       {
         "number": 1,
@@ -4015,7 +4015,7 @@
   },
   {
     "id": 10,
-    "title": "Série 10 — EXAMEN BLANC FINAL",
+    "title": "Série 10 — Examen blanc final",
     "questions": [
       {
         "number": 1,
