@@ -15,3 +15,9 @@ Puis ouvrir http://localhost:8000.
 ## Publication
 
 Le site est prévu pour GitHub Pages. Il fonctionne sans compte candidat et ne collecte ni nom ni résultat. Les réponses restent dans la session de la page.
+
+## Site publié
+
+https://mxhamedamine.github.io/cap-civique/
+
+Le QR code pour partager le site est disponible en SVG et en PNG dans ce dépôt.
